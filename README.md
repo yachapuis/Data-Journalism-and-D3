@@ -6,7 +6,7 @@ In this Data Driven Document (D3) project, we explore certain associations betwe
 This document was created using D3, the JavaScript library for visualizing data with HTML, SVG, and CSS.
 
 Images from the final app
-![Data Journalism and D3 - Plot1.jpg](Images/Data Journalism and D3 - Plot1.jpg)
+![Data Journalism and D3 - Plot1](Images/Data Journalism and D3 - Plot1.jpg)
 
 # Project's Description
 
